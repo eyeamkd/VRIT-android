@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608046425980",
+    "firebase_url": "https://vrit-e62ab.firebaseio.com",
+    "project_id": "vrit-e62ab",
+    "storage_bucket": "vrit-e62ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608046425980:android:b57dc8e6ee5abd498566f9",
+        "android_client_info": {
+          "package_name": "com.example.vrit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608046425980-0csjlcupuesa4d5aspagqchs9gujal7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vrit",
+            "certificate_hash": "e5596c0ebe351e4ed4ae234c64317368ee0c30cc"
+          }
+        },
+        {
+          "client_id": "608046425980-q4jcpv1oabqu220ofgnpq1j2v7hb42i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_d18SoEHUwL9lC4hK9bW3EOfbXjT6eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608046425980-q4jcpv1oabqu220ofgnpq1j2v7hb42i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

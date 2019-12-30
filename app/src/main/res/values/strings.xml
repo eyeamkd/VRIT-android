@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VRIT</string>
+    <string name="phoneNumberInput">Enter Phone Number</string>
+    <string name="loginButonLabel">Login </string>
+    <string name="OtpHint">Enter OTP here</string>
+    <string name="otpButtonLabel">ENTER OTP</string>
+
+    <string name="title_activity_splash_acitivity">SplashAcitivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
